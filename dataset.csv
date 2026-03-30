@@ -1,1 +1,6 @@
-
+study_hours,water_intake,sleep_time,break_interval,reminder_needed
+3,low,10,45,1
+5,medium,11,60,1
+2,high,9,30,0
+6,low,12,90,1
+4,medium,10,60,0
